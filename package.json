@@ -1,0 +1,31 @@
+{
+  "name": "fix-sourcemaps",
+  "version": "1.0.0",
+  "description": "Fix sources and file in sourcemaps",
+  "keywords": [
+    "source",
+    "sources",
+    "map",
+    "sourcemap",
+    "relative",
+    "absolute"
+  ],
+  "main": "index.js",
+  "bin": {
+    "fix-sourcemaps": "./bin/fix-sourcemaps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webpro/fix-sourcemaps.git"
+  },
+  "homepage": "https://github.com/webpro/fix-sourcemaps",
+  "author": {
+      "name": "Lars Kappert",
+      "email": "lars@webpro.nl",
+      "url": "http://webpro.nl"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "minimist": "1.1.0"
+  }
+}
