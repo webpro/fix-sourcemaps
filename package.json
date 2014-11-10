@@ -1,6 +1,6 @@
 {
   "name": "fix-sourcemaps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix sources and file in sourcemaps",
   "keywords": [
     "source",
@@ -25,7 +25,7 @@
       "url": "http://webpro.nl"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "minimist": "1.1.0"
   }
 }
