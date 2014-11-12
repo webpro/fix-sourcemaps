@@ -1,6 +1,6 @@
 {
   "name": "fix-sourcemaps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fix sources and file in sourcemaps",
   "keywords": [
     "source",
